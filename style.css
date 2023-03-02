@@ -1,0 +1,31 @@
+.header {
+    background-color: orange;
+    }
+    
+    .my-box {
+    border-radius: 5px;
+    text-align: center;
+    height: 5rem;
+    line-height: 5rem;
+    font-size: 20px;
+    margin-bottom: 5px;
+    box-shadow: 2px 2px 5px black;
+    }
+    
+    .main {
+    background-color: rgb(36, 39, 207);
+    
+    }
+    
+    .empty {
+    background-color: transparent;
+    }
+    
+    .sidebar {
+    background-color: red;
+    }
+    
+    .footer {
+    background-color: green;
+    }
+    
